@@ -1,0 +1,5 @@
+{
+    "domains": ["tesla.com", "apple.com", "https://www.shopify.com/", "kars4kids.org"],
+    "region": "anywhere",
+    "proxyConfiguration": { "useApifyProxy": false }
+}

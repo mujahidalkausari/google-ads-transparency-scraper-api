@@ -1,0 +1,6 @@
+domain,ads_ever,adsCount,date_of_last_running,type_of_ad,ads_link,error
+apple.com,Yes,~300K,"Oct 2, 2026",Text,https://adstransparency.google.com/advertiser/AR06559612996090331137/creative/CR17024882067898368001?authuser=0&region=anywhere&hl=en,
+tesla.com,Yes,~5K,"Oct 2, 2026",Image,https://adstransparency.google.com/advertiser/AR17828074650563772417/creative/CR00846223121269653505?authuser=0&region=anywhere&hl=en,
+shopify.com,Yes,~80K,"Oct 2, 2026",Text,https://adstransparency.google.com/advertiser/AR01625195283841286145/creative/CR11964209557145649153?authuser=0&region=anywhere&hl=en,
+kars4kids.org,Yes,~700,"Oct 2, 2026",Text,https://adstransparency.google.com/advertiser/AR15468740984774328321/creative/CR03681430066715164673?authuser=0&region=anywhere&hl=en,
+nonexistentdomain-zzqqxx-1234.com,No,,,,,

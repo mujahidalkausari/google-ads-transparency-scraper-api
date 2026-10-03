@@ -1,0 +1,47 @@
+[
+  {
+    "domain": "apple.com",
+    "ads_ever": "Yes",
+    "adsCount": "~300K",
+    "date_of_last_running": "Oct 2, 2026",
+    "type_of_ad": "Text",
+    "ads_link": "https://adstransparency.google.com/advertiser/AR06559612996090331137/creative/CR17024882067898368001?authuser=0&region=anywhere&hl=en",
+    "error": null
+  },
+  {
+    "domain": "tesla.com",
+    "ads_ever": "Yes",
+    "adsCount": "~5K",
+    "date_of_last_running": "Oct 2, 2026",
+    "type_of_ad": "Image",
+    "ads_link": "https://adstransparency.google.com/advertiser/AR17828074650563772417/creative/CR00846223121269653505?authuser=0&region=anywhere&hl=en",
+    "error": null
+  },
+  {
+    "domain": "shopify.com",
+    "ads_ever": "Yes",
+    "adsCount": "~80K",
+    "date_of_last_running": "Oct 2, 2026",
+    "type_of_ad": "Text",
+    "ads_link": "https://adstransparency.google.com/advertiser/AR01625195283841286145/creative/CR11964209557145649153?authuser=0&region=anywhere&hl=en",
+    "error": null
+  },
+  {
+    "domain": "kars4kids.org",
+    "ads_ever": "Yes",
+    "adsCount": "~700",
+    "date_of_last_running": "Oct 2, 2026",
+    "type_of_ad": "Text",
+    "ads_link": "https://adstransparency.google.com/advertiser/AR15468740984774328321/creative/CR03681430066715164673?authuser=0&region=anywhere&hl=en",
+    "error": null
+  },
+  {
+    "domain": "nonexistentdomain-zzqqxx-1234.com",
+    "ads_ever": "No",
+    "adsCount": null,
+    "date_of_last_running": null,
+    "type_of_ad": null,
+    "ads_link": null,
+    "error": null
+  }
+]
